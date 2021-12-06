@@ -1,0 +1,7 @@
+node_modules
+selenium-3.141.0
+backup.txt
+Presentation
+*.tar.gz
+data-files
+package-lock.json
